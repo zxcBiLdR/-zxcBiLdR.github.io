@@ -1,0 +1,55 @@
+
+body {
+    background-color:grey ;
+    color:white ;
+		background: #000 url(ii.png); /* Фоновый цвет и фоновый рисунок*/
+		color: #fff; /*Цвет текста на странице*/
+		background-attachment: fixed; /* Фон страницы фиксируется */
+		background-repeat: no-repeat; /* Изображение повторяется по горизонтали */
+        background-size: 2000px 1500px
+	
+}
+hr {
+    height: 5px;
+    background-color: black;
+    
+}
+a {
+    
+    font-size: 18px;
+
+
+}
+
+span {
+    font-size: 19px;
+}
+div {
+
+    margin: 5% 1%; 
+}
+.product{
+	position:relative;
+	padding: 20px;
+	min-height: 120px;
+	background-color:whitesmoke;
+	border-radius: 15px;
+	list-style: none; ;
+}
+
+.container {
+    position: relative;
+    max-width: 998px;
+    width: 100%;
+    margin: 0 auto;
+  }
+  a:link {
+    color: #0000d0; /* Цвет ссылок */
+    padding: 10px; /* Поля вокруг текста */
+  }
+  a:hover {
+    background: #786b59; /* Цвет фона под ссылкой */
+    color: #ffe; /* Цвет ссылки */
+  }
+  
+  
